@@ -1,6 +1,6 @@
 /* h1 {
   font-size: 20px;
-}
+} */
 
 header {
   background-color: var(--color-bg-secondary);
@@ -10,15 +10,15 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-} */
+}
 
-header {
+/* header {
   height: 80px;
   background-color: var(--color-bg-secondary);
   color: var(--color-font-secondary);
   display: flex;
   align-items: center;
-}
+} */
 
 .site-name {
   font-size: 20px;

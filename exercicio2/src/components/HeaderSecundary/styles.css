@@ -1,0 +1,13 @@
+header {
+    height: 80px;
+    background-color: var(--color-bg-tertiary); 
+    color: var( --color-font-primary);
+    display: flex;
+    align-items: center;
+}
+
+.site-name {
+    font-size: 32px;
+    text-align: center;
+
+}
