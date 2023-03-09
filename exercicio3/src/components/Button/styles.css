@@ -1,0 +1,26 @@
+/* .button {
+    width: 150px;
+    height: 45px;
+    padding: 0 20px;
+    background-color: var(--color-bg-secondary);
+    border-radius: 6px;
+    color: var(--color-font-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 16px;
+} */
+
+.button {
+    border-radius: 6px;
+    background-color: var(--color-bg-secondary);
+    color: var(--color-font-secondary);
+    padding: 0 20px;
+    height: 45px;
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

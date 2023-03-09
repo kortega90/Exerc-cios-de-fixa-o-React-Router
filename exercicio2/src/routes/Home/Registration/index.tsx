@@ -7,7 +7,7 @@ export default function Registration(){
 
     return (
         <>
-       <HeaderSecundary/>
+       {/* <HeaderSecundary/> */}
         <main>
             <section>
                 <div className="container">
